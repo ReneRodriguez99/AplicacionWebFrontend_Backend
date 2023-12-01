@@ -1,0 +1,2 @@
+El login de google funciona solo con los correos de la uabc.
+Usar Google Chrome de preferencia o en caso de problemas.
